@@ -1,7 +1,6 @@
 <h1 align="center">Bozorgmehr-puncfixer-v0.1</h1>
 
 <p align="center">
-  <a href="https://github.com/kheradafrouz/Bozorgmehr-puncfixer-v0.1/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/kheradafrouz/Bozorgmehr-puncfixer-v0.1/actions/workflows/ci.yml/badge.svg"></a>
   <img alt="Python 3.9+" src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white">
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-1.x-F7931E?logo=scikitlearn&logoColor=white">
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white">
